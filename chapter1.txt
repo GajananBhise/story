@@ -1,1 +1,1 @@
-this is first chapter. first file i am getting to git.
+this chapter 1 now contains somme alien specific data and info.
